@@ -56,4 +56,4 @@ CausalImpact, когортный анализ,
 STL-декомпозиция, Benjamini-Hochberg
 
 ## Структура
-- `flashmob.ipynb` — полный анализ
+- `flashmob_proj.ipynb` — полный анализ
